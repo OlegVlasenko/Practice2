@@ -5,7 +5,7 @@ import org.junit.Test;
 
 public class PositiveAverageNumberTest {
 
-    PositiveAverageNumber PositiveAverageNumber = new PositiveAverageNumber();
+    private final PositiveAverageNumber PositiveAverageNumber = new PositiveAverageNumber();
 
     @Test
     public void PositiveAverageNumberTest_1(){
